@@ -9,5 +9,4 @@
 - **Skills**: Page Object Model, Page Factory, ThreadLocal, Singleton Pattern
 - **Other Tools**: JMeter, Postman
 
-See the list video about Robot Framework on YouTube: https://youtube.com/@SunnyNguyen8
 Follow me on LinkedIn to see tips about automation testing: https://linkedin.com/in/sunny-sunny/
