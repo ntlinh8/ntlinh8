@@ -1,6 +1,6 @@
 ## Overview
 
-🤖 Software Engineer | 🌐 Passionate about building complex systems | 💻 Java, Golang enthusiast
+🤖 Software Engineer In Test |
 
 - **Programming Languages**: Java, Python, Golang
 
